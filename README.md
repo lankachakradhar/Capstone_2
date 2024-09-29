@@ -18,20 +18,32 @@ Connect SQL to Power BI/Tableau and create interactive dashboards for visualizin
 Analysis Categories:
 
 Customer Analysis:
+
 Demographic Distribution: Analyze customers based on gender, age, and location.
+
 Purchase Patterns: Assess average order value, frequency, and product preferences.
+
 Segmentation: Group customers based on demographics and behavior.
 
 Sales Analysis:
+
 Sales Performance: Examine total sales trends over time.
+
 Product Sales: Identify top-performing products.
+
 Store Sales: Assess sales performance by store.
 
 Product Analysis:
+
 Product Popularity: Determine most and least popular products.
+
 Profitability: Calculate product profit margins.
+
 Category Analysis: Evaluate performance across product categories.
 
 Store Analysis
+
 Store Performance: Measure sales and operational data for each store.
+
 Geographical Analysis: Analyze store performance based on location.
+
